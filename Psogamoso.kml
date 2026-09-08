@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1gfcwSys03oKDEIhqUBL6jXx91tBtpaFU">
+	<name>Proyecto</name>
+	<gx:CascadingStyle kml:id="__managed_style_02E7C287D141B8BE245F_highlight">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_02E7C287D141B8BE245F_normal">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02E7C287D141B8BE245F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_02E7C287D141B8BE245F_normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_02E7C287D141B8BE245F_highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="0DFCA8EC1741B8C667B4">
+		<name>SOGAMOSO-LA LOMA</name>
+		<styleUrl>#__managed_style_02E7C287D141B8BE245F</styleUrl>
+		<Placemark id="0512F434CC41B8C3A84C">
+			<name>SE la loma</name>
+			<LookAt>
+				<longitude>-73.61896899999999</longitude>
+				<latitude>9.602169</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1039.990175181204</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_02E7C287D141B8BE245F</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<coordinates>-73.61896899999999,9.602169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="0F864AAD5741B8C4DC34">
+			<name>SE sogamoso</name>
+			<LookAt>
+				<longitude>-73.460858</longitude>
+				<latitude>7.122208000000001</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>1047.420215284438</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#__managed_style_02E7C287D141B8BE245F</styleUrl>
+			<Point>
+				<extrude>1</extrude>
+				<coordinates>-73.460858,7.122208,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
